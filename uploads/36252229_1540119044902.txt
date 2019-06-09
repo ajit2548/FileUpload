@@ -1,0 +1,1082 @@
+<link href="txtstyle.css" rel="stylesheet" type="text/css" />
+
+
+HDFC BANK Ltd.                                     Page No .:   1                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+01/04/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000LF6180327202  01/04/18             770.00                              61,997.99   
+01/04/18  POS 541919XXXXXX1083 AMAZON SELLER POS D  0000000000001094  01/04/18             349.00                              61,648.99   
+          EBIT                                                                                                                              
+01/04/18  POS 541919XXXXXX1083 BIG BAZAAR POS DEBI  0000000000171713  01/04/18             806.80                              60,842.19   
+          T                                                                                                                                 
+02/04/18  IMPS-809210283964-AMAZON SELLER SERVIC-H  0000809210283964  02/04/18                                349.00           61,191.19   
+          DFC-XXXXXXXX6004-1323165091420940AJIT KU                                                                                          
+          MAR PRADHAN                                                                                                                       
+03/04/18  POS 541919XXXXXX1083 TICKETSIMPLY PAY PO  0000000000017054  03/04/18           1,898.10                              59,293.09   
+          S DEBIT                                                                                                                           
+03/04/18  POS 541919XXXXXX1083 PTM*PAYTM POS DEBIT  0000809360239240  03/04/18           2,245.66                              57,047.43   
+03/04/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000LF6188440864  03/04/18              95.00                              56,952.43   
+04/04/18  POS 541919XXXXXX1083 CLEARTRIP PVT LT PO  0000000000770927  04/04/18           1,358.00                              55,594.43   
+          S DEBIT                                                                                                                           
+05/04/18  POS 541919XXXXXX1083 KBC EMPORIUM POS DE  0000000000001981  05/04/18             614.00                              54,980.43   
+          BIT                                                                                                                               
+06/04/18  CHQ PAID-MICR CTS-CH-A K P BUSINESS LINE  0000000000000071  06/04/18          14,000.00                              40,980.43   
+06/04/18  NWD-541919XXXXXX1083-00813630-BANGALORE   0000809618007580  06/04/18           1,900.00                              39,080.43   
+07/04/18  ACH D- BD-CRYNACH-TXKX65941               0000002611916603  07/04/18             400.00                              38,680.43   
+07/04/18  NWD-541919XXXXXX1083-02216001-SBI INDU N  0000809716015877  07/04/18           1,900.00                              36,780.43   
+          AGA                                                                                                                               
+08/04/18  POS 541919XXXXXX1083 SRI BALAJI ENTER PO  0000000000010668  08/04/18             700.00                              36,080.43   
+          S DEBIT                                                                                                                           
+08/04/18  NWD-541919XXXXXX1083-1247E004-THE NILGIR  0000809813031370  08/04/18           1,500.00                              34,580.43   
+          IS                                                                                                                                
+08/04/18  NWD-541919XXXXXX1083-1247E004-THE NILGIR  0000809813031370  08/04/18          -1,500.00                              36,080.43   
+          IS                                                                                                                                
+08/04/18  NWD-541919XXXXXX1083-00891023-COONOOR     0000809813000700  08/04/18           1,500.00                              34,580.43   
+11/04/18  POS 541919XXXXXX1083 OLA MONEY POS DEBIT  0000000000136227  11/04/18             300.00                              34,280.43   
+11/04/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000810170327590  11/04/18             300.00                              33,980.43   
+          EBIT                                                                                                                              
+12/04/18  ECS D-TP AADHAR HOUSING FI-0001443985101  0000102581004557  12/04/18           6,347.00                              27,633.43   
+12/04/18  UPI-00000020180574615-9776846688@YBL-810  0000810216353550  12/04/18           5,000.00                              22,633.43   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   2                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          216645820-PAYMENT FROM PHONEPE                                                                                                    
+13/04/18  POS 541919XXXXXX1083 PAYU-WWW.GOIBIBO PO  0000100000790075  13/04/18           3,256.00                              19,377.43   
+          S DEBIT                                                                                                                           
+15/04/18  UPI-002261100000025-BILDSK@YBL-810522022  0000810522120761  16/04/18             313.00                              19,064.43   
+          065-PAYMENT FROM PHONEPE                                                                                                          
+16/04/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000810670318821  16/04/18             200.00                              18,864.43   
+          EBIT                                                                                                                              
+17/04/18  NWD-541919XXXXXX1083-00813442-BANGALORE   0000810713017838  17/04/18           1,900.00                              16,964.43   
+17/04/18  POS 541919XXXXXX1083 DOMINOS. POS DEBIT   0000000000006584  17/04/18             125.00                              16,839.43   
+18/04/18  UPI-002261100000025-BILDSK@YBL-810818691  0000810818785292  18/04/18              40.00                              16,799.43   
+          489-PAYMENT FROM PHONEPE                                                                                                          
+18/04/18  POS 541919XXXXXX1083 BALAJI WINES POS DE  0000000000541681  18/04/18             203.00                              16,596.43   
+          BIT                                                                                                                               
+20/04/18  UPI-4511659757-9776846688@YBL-8110562557  0000811014781397  20/04/18           3,000.00                              13,596.43   
+          58-PAYMENT FROM PHONEPE                                                                                                           
+21/04/18  POS REF 541919******1083-04/21 PAYUIND    000000000000000   21/04/18                              2,728.00           16,324.43   
+21/04/18  POS 541919XXXXXX1083 JUBILANT FOODWOR PO  0000000000040347  21/04/18             125.00                              16,199.43   
+          S DEBIT                                                                                                                           
+22/04/18  POS 541919XXXXXX1083 D MART. POS DEBIT    0000000000034914  22/04/18           1,095.90                              15,103.53   
+25/04/18  NWD-541919XXXXXX1083-00813442-BANGALORE   0000811513012824  25/04/18           3,000.00                              12,103.53   
+25/04/18  POS 541919XXXXXX1083 PTM*IRCTC POS DEBIT  0000811540158422  25/04/18             680.00                              11,423.53   
+26/04/18  POS 541919XXXXXX1083 PAYU-WWW.GOIBIBO PO  0000100001921703  26/04/18             660.00                              10,763.53   
+          S DEBIT                                                                                                                           
+28/04/18  POS 541919XXXXXX1083 DCSIICICIPRU POS DE  0000N16257820372  28/04/18             614.00                              10,149.53   
+          BIT                                                                                                                               
+28/04/18  IMPS-811818216773-AJIT PRADHAN-HDFC-XXXX  0000811818216773  28/04/18                              7,000.00           17,149.53   
+          XX6688-COMMENTS                                                                                                                   
+28/04/18  UPI-33289484340-33289484340@SBIN0016296.  0000811818375263  28/04/18             100.00                              17,049.53   
+          IFSC.NPCI-811836595341-PAYMENT FROM PHON                                                                                          
+          EPE                                                                                                                               
+28/04/18  UPI-00000034602700994-SATYANARAYANSWAIN5  0000811818382346  28/04/18           5,000.00                              12,049.53   
+          40H@OKHDFCBANK-PAY-811818076120-UPI                                                                                               
+28/04/18  REV-UPI-07951610034206-PRADHAN.AJIT2009@  0000811818382346  28/04/18                              5,000.00           17,049.53   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   3                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          OKHDFCBANK-PAY-811818076120-UPI                                                                                                   
+28/04/18  UPI-33289484340-33289484340@SBIN0016296.  0000811818388697  28/04/18           6,900.00                              10,149.53   
+          IFSC.NPCI-811836415338-PAYMENT FROM PHON                                                                                          
+          EPE                                                                                                                               
+28/04/18  UPI-00000034602700994-SATYANARAYANSWAIN5  0000811820432980  28/04/18           5,000.00                               5,149.53   
+          40H@OKHDFCBANK-PAY-811820126619-UPI                                                                                               
+28/04/18  POS 541919XXXXXX1083 PTM*IRCTC POS DEBIT  0000811810145285  28/04/18             160.00                               4,989.53   
+29/04/18  POS 541919XXXXXX1083 JUBILANT FOODWOR PO  0000000000008344  29/04/18             229.00                               4,760.53   
+          S DEBIT                                                                                                                           
+29/04/18  POS 541919XXXXXX1083 IRCTC POS DEBIT      0000000000714504  30/04/18             260.00                               4,500.53   
+29/04/18  NWD-541919XXXXXX1083-B8001001-BHUBANESWA  0000811922475607  30/04/18           4,000.00                                 500.53   
+          R                                                                                                                                 
+29/04/18  NWD-541919XXXXXX1083-B8001001-BHUBANESWA  0000811922475607  30/04/18          -4,000.00                               4,500.53   
+          R                                                                                                                                 
+29/04/18  NWD-541919XXXXXX1083-A8001001-KHORDA      0000811922103882  30/04/18           4,000.00                                 500.53   
+30/04/18  00772320000015SAL CREDIT FOR APR18        0000804272209329  30/04/18                             86,190.00           86,690.53   
+30/04/18  POS 541919XXXXXX1083 IRCTC POS DEBIT      0000000000789016  30/04/18             290.00                              86,400.53   
+30/04/18  NHDF6263533142/SBI CARDS                  0000181206736781  30/04/18          17,636.00                              68,764.53   
+30/04/18  IB BILLPAY DR-HDFCVE-489377XXXXXX7030     IB30130250348571  30/04/18          11,387.31                              57,377.22   
+01/05/18  IMPS-812109191912-AJIT PRADHAN-HDFC-XXXX  0000812109191912  01/05/18                              7,000.00           64,377.22   
+          XX6688-COMMENTS                                                                                                                   
+01/05/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000NF6267674868  01/05/18             450.00                              63,927.22   
+01/05/18  UPI-00000020180574615-9776846688@YBL-812  0000812120287796  01/05/18           1,000.00                              62,927.22   
+          140908561-PAYMENT FROM PHONEPE                                                                                                    
+02/05/18  POS 541919XXXXXX1083 MC QR-MP:TATASKY PO  0000000000144203  02/05/18             100.00                              62,827.22   
+          S DEBIT                                                                                                                           
+02/05/18  UPI-00000020180574615-9776846688@YBL-812  0000812215855496  02/05/18          10,000.00                              52,827.22   
+          215655075-PAYMENT FROM PHONEPE                                                                                                    
+02/05/18  UPI-4511659757-9776846688@YBL-8122609528  0000812215859957  02/05/18          16,000.00                              36,827.22   
+          57-PAYMENT FROM PHONEPE                                                                                                           
+02/05/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N122180531713651  02/05/18           1,500.00                              35,327.22   
+          , MUM-N122180531713651-FROM API                                                                                                   
+02/05/18  POS 541919XXXXXX1083 PVR LIMITED. POS DE  0000000000017886  02/05/18             286.00                              35,041.22   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   4                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          BIT                                                                                                                               
+02/05/18  POS REF 541919******1083-05/02 IRCTC8550  000000000000000   02/05/18                                 40.00           35,081.22   
+02/05/18  NWD-541919XXXXXX1083-SPCNF035-BANGALORE   0000812220005833  02/05/18           1,500.00                              33,581.22   
+03/05/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000812313501580  03/05/18           3,000.00                              30,581.22   
+          PAY-812313182806-UPI                                                                                                              
+03/05/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000812320167228  03/05/18             500.00                              30,081.22   
+          EBIT                                                                                                                              
+04/05/18  POS 541919XXXXXX1083 PAYTM MALL POS DEBI  0000812420071901  04/05/18             151.16                              29,930.06   
+          T                                                                                                                                 
+05/05/18  ACH D- BD-CRYNACH-TXKX71031               0000003129757655  05/05/18             400.00                              29,530.06   
+05/05/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000NF6279398438  05/05/18             530.00                              29,000.06   
+05/05/18  POS 541919XXXXXX1083 DMART, POS DEBIT     0000000000026380  05/05/18             606.73                              28,393.33   
+05/05/18  POS 541919XXXXXX1083 SRINIVASA WINES POS  0000000000060671  05/05/18             170.00                              28,223.33   
+          DEBIT                                                                                                                             
+06/05/18  POS 541919XXXXXX1083 AMAZON SELLER POS D  0000000000001499  06/05/18             135.00                              28,088.33   
+          EBIT                                                                                                                              
+06/05/18  NWD-541919XXXXXX1083-MN022001-BANGALORE   0000812619008996  06/05/18           1,000.00                              27,088.33   
+08/05/18  CHQ PAID-MICR CTS-CH-AKP BUSINESS LINE    0000000000000072  08/05/18          14,000.00                              13,088.33   
+08/05/18  POS 541919XXXXXX1083 AMAZON SELLER POS D  0000000000001385  08/05/18             464.00                              12,624.33   
+          EBIT                                                                                                                              
+10/05/18  IMPS-813014136789-AMAZON SELLER SERVIC-H  0000813014136789  10/05/18                                464.00           13,088.33   
+          DFC-XXXXXXXX6004-2993198231023346AJIT KU                                                                                          
+          MAR PRADHAN                                                                                                                       
+10/05/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000813010090590  10/05/18             500.00                              12,588.33   
+          EBIT                                                                                                                              
+11/05/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000NF6297043646  11/05/18             151.00                              12,437.33   
+11/05/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000813122596665  11/05/18             900.00                              11,537.33   
+          PAY-813122068469-UPI                                                                                                              
+12/05/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000813220064515  12/05/18             200.00                              11,337.33   
+          EBIT                                                                                                                              
+12/05/18  KMUHK74EAFZ2PNOW/PAYUOLAMONEYZIPCASH      0000181327366333  12/05/18             141.00                              11,196.33   
+12/05/18  POS 541919XXXXXX1083 CHANDANA BROTHER PO  0000000000020081  12/05/18           1,324.00                               9,872.33   
+          S DEBIT                                                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   5                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+13/05/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000813360139454  14/05/18             400.00                               9,472.33   
+          EBIT                                                                                                                              
+14/05/18  UPI-00000020180574615-9776846688@YBL-813  0000081349709987  14/05/18                              6,000.00           15,472.33   
+          418520444-PAYMENT FROM PHONEPE                                                                                                    
+14/05/18  UPI-4511659757-9776846688@YBL-8134276060  0000081349710203  14/05/18                              5,000.00           20,472.33   
+          82-PAYMENT FROM PHONEPE                                                                                                           
+14/05/18  ECS D-TP AADHAR HOUSING FI-0001455117981  0000134581013863  14/05/18           6,347.00                              14,125.33   
+14/05/18  NEFT DR-SBIN0000121-CHHABITA DAS-NETBANK  N134180540664993  14/05/18           6,000.00                               8,125.33   
+          , MUM-N134180540664993-BHARA                                                                                                      
+14/05/18  NEFT DR-SBIN0000121-MAMATA PRADHAN-NETBA  N134180540667314  14/05/18           5,000.00                               3,125.33   
+          NK, MUM-N134180540667314-BHARA FROM PAPU                                                                                          
+15/05/18  ATW-541919XXXXXX1083-S1AWBG06-BANGALORE-  0000000000009017  15/05/18           1,500.00                               1,625.33   
+          URB                                                                                                                               
+17/05/18  POS 541919XXXXXX1083 AMAZON PAY POS DEBI  0000813740057078  17/05/18             399.00                               1,226.33   
+          T                                                                                                                                 
+18/05/18  UPI-002261100000025-BILDSK@YBL-813818140  0000081389334283  18/05/18             463.00                                 763.33   
+          202-PAYMENT FROM PHONEPE                                                                                                          
+19/05/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000NF6319306186  19/05/18             297.10                                 466.23   
+19/05/18  UPI-00000020180574615-9776846688@YBL-813  0000813921468065  19/05/18                              1,000.00            1,466.23   
+          942887648-PAYMENT FROM PHONEPE                                                                                                    
+23/05/18  POS 541919XXXXXX1083 SRI BALAJI MEDIC PO  0000000000507219  23/05/18             250.00                               1,216.23   
+          S DEBIT                                                                                                                           
+24/05/18  POS REF 541919******1083-05/24 PAYUIND    000000000000000   24/05/18                                 80.00            1,296.23   
+25/05/18  SBY712538_SMS_RNWL                        000000000000000   25/05/18              12.00                               1,284.23   
+26/05/18  POS 541919XXXXXX1083 PTM*PAYTM POS DEBIT  0000814620063331  26/05/18             310.48                                 973.75   
+26/05/18  UPI-002261100000025-KFCINDIA@YBL-8146601  0000814620567850  26/05/18              35.00                                 938.75   
+          70544-PAYMENT FROM PHONEPE                                                                                                        
+26/05/18  POS 541919XXXXXX1083 KEERTHI SERVICE POS  0000000000451679  26/05/18             350.00                                 588.75   
+          DEBIT                                                                                                                             
+27/05/18  UPI-00000020180574615-9776846688@YBL-814  0000081479692272  27/05/18                              1,000.00            1,588.75   
+          709165359-PAYMENT FROM PHONEPE                                                                                                    
+27/05/18  ATW-541919XXXXXX1083-P4ENBN11-BANGALORE   0000000000001842  27/05/18           1,000.00                                 588.75   
+27/05/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000814710019343  27/05/18              70.00                                 518.75   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   6                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          EBIT                                                                                                                              
+27/05/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000598813  27/05/18              83.00                                 435.75   
+          S DEBIT                                                                                                                           
+31/05/18  00772320000015SAL CREDIT FOR MAY18        0000805308861755  31/05/18                             86,191.00           86,626.75   
+31/05/18  UPI-4511659757-9776846688@YBL-8151270774  0000081519158952  31/05/18          15,000.00                              71,626.75   
+          10-PAYMENT FROM PHONEPE                                                                                                           
+31/05/18  IB BILLPAY DR-HDFCVE-489377XXXXXX7030     IB31091927693239  31/05/18           4,623.32                              67,003.43   
+31/05/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N151180551668134  31/05/18           1,500.00                              65,503.43   
+          , MUM-N151180551668134-API                                                                                                        
+31/05/18  UPI-00000020180574615-9776846688@YBL-815  0000081519182179  31/05/18           2,000.00                              63,503.43   
+          118554600-PAYMENT FROM PHONEPE                                                                                                    
+31/05/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000081519183876  31/05/18          15,000.00                              48,503.43   
+          PAY-815109526612-UPI                                                                                                              
+01/06/18  SI HDFC193306240 HDFC MUTUAL FU-01/06/18  000000000000000   01/06/18           1,500.00                              47,003.43   
+01/06/18  POS 541919XXXXXX1083 MONEYGOALS POS DEBI  0000NF6352094649  01/06/18           1,000.00                              46,003.43   
+          T                                                                                                                                 
+01/06/18  IMPS-815212007915-APIBANKING-HDFC-XXXXXX  0000815212007915  01/06/18                                  1.00           46,004.43   
+          XXXXXX0012-ACCOUNT VALIDATION                                                                                                     
+01/06/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000815210104916  01/06/18             200.00                              45,804.43   
+          EBIT                                                                                                                              
+01/06/18  DEBIT CARD CASH BACK                      000000000000000   01/06/18                                 98.00           45,902.43   
+02/06/18  POS 541919XXXXXX1083 PTM*PAYTM POS DEBIT  0000815310046648  02/06/18           8,978.58                              36,923.85   
+03/06/18  KIQXQ5EKAZ4KLOW2/PAYUOLAMONEYZIPCASH      0000181544397642  03/06/18              40.00                              36,883.85   
+03/06/18  ATW-541919XXXXXX1083-S1AWBG06-BANGALORE-  0000000000002346  03/06/18           1,500.00                              35,383.85   
+          URB                                                                                                                               
+03/06/18  ATW-541919XXXXXX1083-S1AWBG06-BANGALORE-  0000000000002347  03/06/18             600.00                              34,783.85   
+          URB                                                                                                                               
+04/06/18  ACH D- BD-CRYNACH-TXKX72492               0000003575585547  04/06/18             400.00                              34,383.85   
+04/06/18  UPI-00000020180574615-9776846688@YBL-815  0000815515974523  04/06/18           2,000.00                              32,383.85   
+          530241436-PAYMENT FROM PHONEPE                                                                                                    
+05/06/18  CHQ PAID-MICR CTS-CH-AKP BUSINESS LINE    0000000000000073  05/06/18          14,000.00                              18,383.85   
+05/06/18  POS 541919XXXXXX1083 DIVYA FUEL POINT PO  0000000000254113  05/06/18             320.00                              18,063.85   
+          S DEBIT                                                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   7                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+06/06/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000747141  06/06/18              90.00                              17,973.85   
+          S DEBIT                                                                                                                           
+07/06/18  POS 541919XXXXXX1083 JUBILANT FOODWOR PO  0000000000043057  07/06/18             135.44                              17,838.41   
+          S DEBIT                                                                                                                           
+09/06/18  POS 541919XXXXXX1083 PAYTM MALL POS DEBI  0000816060042223  09/06/18             329.00                              17,509.41   
+          T                                                                                                                                 
+11/06/18  POS 541919XXXXXX1083 PTM*PAYTM POS DEBIT  0000816220097641  11/06/18             606.00                              16,903.41   
+11/06/18  UPI-00000020180574615-9776846688@YBL-816  0000816221051802  11/06/18           5,000.00                              11,903.41   
+          221688920-PAYMENT FROM PHONEPE                                                                                                    
+12/06/18  ECS D-TP AADHAR HOUSING FI-0001466305618  0000163581002100  12/06/18           6,347.00                               5,556.41   
+12/06/18  CRV POS 541919******1083 HPCL 0.75% CASH  000000000000000   12/06/18                                  2.40            5,558.81   
+16/06/18  POS 541919XXXXXX1083 TPS*PHONEPE PRIV PO  0000816790039948  16/06/18             557.00                               5,001.81   
+          S DEBIT                                                                                                                           
+16/06/18  POS 541919XXXXXX1083 MC QR-MP:TATASKY PO  0000000000174951  16/06/18             100.00                               4,901.81   
+          S DEBIT                                                                                                                           
+17/06/18  POS 541919XXXXXX1083 AMAZON POS DEBIT     0000NF6399488597  17/06/18             550.00                               4,351.81   
+17/06/18  POS 541919XXXXXX1083 AMAZON PAY INDIA PO  0000000000303003  17/06/18             150.00                               4,201.81   
+          S DEBIT                                                                                                                           
+17/06/18  POS 541919XXXXXX1083 AMAZON PAY INDIA PO  0000000000311066  17/06/18             399.00                               3,802.81   
+          S DEBIT                                                                                                                           
+17/06/18  NWD-541919XXXXXX1083-07530811-BANGALORE   0000816814753067  17/06/18           1,500.00                               2,302.81   
+18/06/18  POS 541919XXXXXX1083 TPS*PHONEPE PRIV PO  0000816980134849  18/06/18             335.00                               1,967.81   
+          S DEBIT                                                                                                                           
+19/06/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000817060056803  19/06/18             200.00                               1,767.81   
+          EBIT                                                                                                                              
+20/06/18  CRV POS 541919******1083 DISCOUNT ON FUE  000000000000000   20/06/18                                  2.63            1,770.44   
+21/06/18  POS 541919XXXXXX1083 MAX SHOPPEE POS DEB  0000000000032808  21/06/18             160.00                               1,610.44   
+          IT                                                                                                                                
+23/06/18  UPI-00000020180574615-9776846688@YBL-817  0000081749826819  23/06/18                              5,000.00            6,610.44   
+          427932906-PAYMENT FROM PHONEPE                                                                                                    
+23/06/18  NWD-541919XXXXXX1083-0888E003-BANGALORE   0000817410022338  23/06/18           1,900.00                               4,710.44   
+          M                                                                                                                                 
+23/06/18  POS 541919XXXXXX1083 CHULHA CHAUKI DA PO  0000000000000439  23/06/18             558.00                               4,152.44   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   8                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          S DEBIT                                                                                                                           
+24/06/18  POS 541919XXXXXX1083 D MART. POS DEBIT    0000000000011946  24/06/18             685.02                               3,467.42   
+26/06/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000022780  26/06/18              90.00                               3,377.42   
+          S DEBIT                                                                                                                           
+26/06/18  POS 541919XXXXXX1083 HOUSE OF SPIRIT POS  0000000000044801  26/06/18             105.00                               3,272.42   
+          DEBIT                                                                                                                             
+28/06/18  POS 541919XXXXXX1083 DCSIICICIPRU POS DE  0000N16430980158  28/06/18             614.00                               2,658.42   
+          BIT                                                                                                                               
+29/06/18  00772320000015SAL CREDIT FOR JUN18        0000806283869166  29/06/18                             82,714.00           85,372.42   
+29/06/18  UPI-4511659757-9776846688@YBL-8180448862  0000818011301015  29/06/18          11,000.00                              74,372.42   
+          84-PAYMENT FROM PHONEPE                                                                                                           
+29/06/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N180180572966663  29/06/18           1,500.00                              72,872.42   
+          , MUM-N180180572966663-FROM API                                                                                                   
+29/06/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000818010102123  29/06/18             200.00                              72,672.42   
+          EBIT                                                                                                                              
+29/06/18  NWD-541919XXXXXX1083-SPCNF035-BANGALORE   0000818019003479  29/06/18           1,500.00                              71,172.42   
+30/06/18  NHDF6437931435/BILLDKBANAYANTREESER       0000181815543259  30/06/18           1,000.00                              70,172.42   
+01/07/18  CREDIT INTEREST CAPITALISED               000000000000000   30/06/18                                160.00           70,332.42   
+01/07/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000818210142136  01/07/18          30,000.00                              40,332.42   
+          PAY-818210253116-UPI                                                                                                              
+02/07/18  SI HDFC196267031 HDFC MUTUAL FU-02/07/18  000000000000000   02/07/18           1,500.00                              38,832.42   
+03/07/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000818410108986  03/07/18             300.00                              38,532.42   
+          EBIT                                                                                                                              
+03/07/18  POS 541919XXXXXX1083 DIVYA FUEL POINT PO  0000000000208772  03/07/18             210.00                              38,322.42   
+          S DEBIT                                                                                                                           
+03/07/18  POS 541919XXXXXX1083 INDIAN RAILWAY C PO  0000818470095695  03/07/18           1,030.00                              37,292.42   
+          S DEBIT                                                                                                                           
+04/07/18  UPI-4511659757-9776846688@YBL-8185288778  0000818514538177  04/07/18             300.00                              36,992.42   
+          39-PAYMENT FROM PHONEPE                                                                                                           
+05/07/18  CHQ PAID-MICR CTS-CH-AKIP BUILDERS LINE   0000000000000074  05/07/18          14,000.00                              22,992.42   
+05/07/18  ACH D- BD-CRYNACH-TXKX76359               0000004072143961  05/07/18             400.00                              22,592.42   
+06/07/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000216308  06/07/18              90.00                              22,502.42   
+          S DEBIT                                                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   9                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+06/07/18  POS 541919XXXXXX1083 TPS*TATA SKY LIM PO  0000818770086189  06/07/18              30.00                              22,472.42   
+          S DEBIT                                                                                                                           
+07/07/18  051030807071823685- CBDT TAX              000000000000000   07/07/18           9,350.00                              13,122.42   
+07/07/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000818810063070  07/07/18           1,500.00                              11,622.42   
+          EBIT                                                                                                                              
+07/07/18  UPI-4511659757-9776846688@YBL-8188164559  0000818816737332  07/07/18           3,000.00                               8,622.42   
+          39-PAYMENT FROM PHONEPE                                                                                                           
+07/07/18  UPI-4511659757-9776846688@PAYTM-81881640  0000818816738065  07/07/18                              3,000.00           11,622.42   
+          6537-NA                                                                                                                           
+07/07/18  CRV POS 541919******1083 HPCL 0.75% CASH  000000000000000   07/07/18                                  1.58           11,624.00   
+08/07/18  POS 541919XXXXXX1083 SRNS ENTERPRISES PO  0000000000024150  08/07/18             350.00                              11,274.00   
+          S DEBIT                                                                                                                           
+11/07/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000005352  11/07/18           1,500.00                               9,774.00   
+          URB                                                                                                                               
+12/07/18  POS 541919XXXXXX1083 PTM*PAYTM POS DEBIT  0000819360022261  12/07/18             937.68                               8,836.32   
+12/07/18  ECS D-TP AADHAR HOUSING FI-0001479982884  0000193581000302  12/07/18           6,347.00                               2,489.32   
+12/07/18  UPI-00771610194084-00771610194084@HDFC00  0000819311991443  12/07/18             820.00                               1,669.32   
+          00077.IFSC.NPCI-819333142608-PAYMENT FRO                                                                                          
+          M PHONEPE                                                                                                                         
+13/07/18  POS 541919XXXXXX1083 RELIANCE POS DEBIT   0000000000007896  13/07/18             433.36                               1,235.96   
+14/07/18  UPI-002261100000025-Q46117452@YBL-819556  0000819514939452  14/07/18             350.00                                 885.96   
+          382942-PAYMENT FROM PHONEPE                                                                                                       
+16/07/18  UPI-002261100000025-BILLDESKPP@YBL-81973  0000819711303818  16/07/18             483.00                                 402.96   
+          3923097-PAYMENT FROM PHONEPE                                                                                                      
+20/07/18  UPI-00000020180574615-9776846688@YBL-820  0000820113837714  20/07/18                              1,500.00            1,902.96   
+          113793691-PAYMENT FROM PHONEPE                                                                                                    
+20/07/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000006070  20/07/18           1,500.00                                 402.96   
+          URB                                                                                                                               
+20/07/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000820110116242  20/07/18             200.00                                 202.96   
+          EBIT                                                                                                                              
+22/07/18  UPI-00000020180574615-9776846688@YBL-820  0000820320601193  22/07/18                                500.00              702.96   
+          320257867-PAYMENT FROM PHONEPE                                                                                                    
+24/07/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000538779  24/07/18              80.00                                 622.96   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   10                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          S DEBIT                                                                                                                           
+29/07/18  POS 541919XXXXXX1083 FUTURE RETAIL LT PO  0000000000002453  29/07/18             414.62                                 208.34   
+          S DEBIT                                                                                                                           
+29/07/18  UPI-4511659757-9776846688@YBL-8210335062  0000821011756270  29/07/18                                500.00              708.34   
+          23-PAYMENT FROM PHONEPE                                                                                                           
+30/07/18  POS 541919XXXXXX1083 DCSIICICIPRU POS DE  0000N16530995724  30/07/18             614.00                                  94.34   
+          BIT                                                                                                                               
+30/07/18  UPI-4511659757-9776846688@YBL-8211243016  0000821112497779  30/07/18                                100.00              194.34   
+          01-PAYMENT FROM PHONEPE                                                                                                           
+30/07/18  POS 541919XXXXXX1083 RAZ*RAZORPAY SOF PO  0000000000006105  30/07/18             100.00                                  94.34   
+          S DEBIT                                                                                                                           
+31/07/18  00772320000015SAL CREDIT FOR JUL18        0000807301215513  31/07/18                             83,702.00           83,796.34   
+31/07/18  NHDF6534451325/SBI CARDS                  0000182120756562  31/07/18           1,500.00                              82,296.34   
+31/07/18  UPI-4511659757-9776846688@YBL-8212366756  0000821212563864  31/07/18          11,000.00                              71,296.34   
+          20-PAYMENT FROM PHONEPE                                                                                                           
+31/07/18  UPI-50200027864076-PAYUMONEY@HDFCBANK-CO  0000821213640619  31/07/18           1,180.00                              70,116.34   
+          LLECT-821213850806-COLLECT                                                                                                        
+31/07/18  NHDF6535275257/BILLDKBANAYANTREESER       0000182120999227  31/07/18           1,000.00                              69,116.34   
+31/07/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N212180597090025  31/07/18           1,500.00                              67,616.34   
+          , MUM-N212180597090025-FROM API                                                                                                   
+31/07/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000140088  31/07/18           2,790.00                              64,826.34   
+          BIT                                                                                                                               
+31/07/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000140213  31/07/18           2,890.00                              61,936.34   
+          BIT                                                                                                                               
+31/07/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000140215  31/07/18           2,890.00                              59,046.34   
+          BIT                                                                                                                               
+31/07/18  UPI-4511659757-9776846688@YBL-8212802610  0000821220365203  31/07/18                              2,900.00           61,946.34   
+          86-PAYMENT FROM PHONEPE                                                                                                           
+01/08/18  UPI-00000020180574615-9776846688@YBL-821  0000082138716842  01/08/18           3,000.00                              58,946.34   
+          316333938-PAYMENT FROM PHONEPE                                                                                                    
+01/08/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000821310022273  01/08/18             633.39                              58,312.95   
+          EBIT                                                                                                                              
+01/08/18  SI HDFC198095627 HDFC MUTUAL FU-01/08/18  000000000000000   01/08/18           1,500.00                              56,812.95   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   11                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+01/08/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000821310093206  01/08/18             200.00                              56,612.95   
+          EBIT                                                                                                                              
+01/08/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000821323924332  01/08/18           2,000.00                              54,612.95   
+          PAY-821323696585-UPI                                                                                                              
+02/08/18  NEFT CR-UTIB0002946-SWAGATIKA  SWAIN-AJI  AXIR182142572539  02/08/18                              6,000.00           60,612.95   
+          T PRADHAN-AXIR182142572539                                                                                                        
+02/08/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000821410233127  02/08/18          25,000.00                              35,612.95   
+          PAY-821410938355-UPI                                                                                                              
+02/08/18  POS REF 541919******1083-08/02 IRCTC1202  000000000000000   02/08/18                                910.00           36,522.95   
+02/08/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000007299  02/08/18           1,500.00                              35,022.95   
+          URB                                                                                                                               
+04/08/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000727001  04/08/18             100.00                              34,922.95   
+          S DEBIT                                                                                                                           
+04/08/18  POS 541919XXXXXX1083 CBDT POS DEBIT       0000821670046545  04/08/18           9,830.00                              25,092.95   
+06/08/18  ACH D- BD-CRYNACH-TXKX81421               0000004610629394  06/08/18             400.00                              24,692.95   
+06/08/18  POS 541919XXXXXX1083 DIVYA FUEL POINT PO  0000000000148980  06/08/18             350.00                              24,342.95   
+          S DEBIT                                                                                                                           
+07/08/18  CHQ PAID-MICR CTS-CH-A K P BUSINESS LINE  0000000000000076  07/08/18          14,000.00                              10,342.95   
+07/08/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N219180604439265  08/08/18           1,000.00                               9,342.95   
+          , MUM-N219180604439265-FROM API                                                                                                   
+07/08/18  UPI-055505004639-RETAILSHOPPING-PAYTM@IC  0000821923286621  07/08/18             505.82                               8,837.13   
+          ICI-821923065757-OID20180807174444029406                                                                                          
+          0@CLUBFACTORYINDIAPRIVATELI                                                                                                       
+07/08/18  UPI-055505004639-RETAILSHOPPING-PAYTM@IC  0000821923306442  08/08/18             492.06                               8,345.07   
+          ICI-821923165029-OID20180807182256529758                                                                                          
+          8@CLUBFACTORYINDIAPRIVATELI                                                                                                       
+08/08/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000007989  08/08/18           1,000.00                               7,345.07   
+          URB                                                                                                                               
+13/08/18  ECS D-TP AADHAR HOUSING FI-0001494084696  0000225581012688  13/08/18           6,347.00                                 998.07   
+13/08/18  CRV POS 541919******1083 HPCL 0.75% CASH  000000000000000   13/08/18                                  2.62            1,000.69   
+15/08/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000930204  15/08/18              90.00                                 910.69   
+          S DEBIT                                                                                                                           
+17/08/18  UPI-4511659757-9776846688@YBL-8229213090  0000822921666306  17/08/18                              2,000.00            2,910.69   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   12                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          09-PAYMENT FROM PHONEPE                                                                                                           
+18/08/18  POS 541919XXXXXX1083 RAVTA RAM POS DEBIT  0000000000024381  18/08/18             950.00                               1,960.69   
+18/08/18  UPI-002261100000025-JIORECHARGES@YBL-823  0000823013109369  18/08/18             334.00                               1,626.69   
+          039760251-PAYMENT FROM PHONEPE                                                                                                    
+18/08/18  EAW-541919XXXXXX1083-00008805-BANGALORE   0000823007264576  18/08/18           1,000.00                                 626.69   
+19/08/18  UPI-002261100000025-BILLDESKPP@YBL-82312  0000082319806310  19/08/18             439.00                                 187.69   
+          7063411-PAYMENT FROM PHONEPE                                                                                                      
+23/08/18  UPI-4511659757-9776846688@YBL-8235365768  0000823518923127  23/08/18                              4,000.00            4,187.69   
+          09-PAYMENT FROM PHONEPE                                                                                                           
+23/08/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000009177  23/08/18           3,000.00                               1,187.69   
+          URB                                                                                                                               
+25/08/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000107432  25/08/18              90.00                               1,097.69   
+          S DEBIT                                                                                                                           
+25/08/18  02771610132345-TPT-TAX REBATE             0000000189878860  25/08/18                              2,500.00            3,597.69   
+26/08/18  POS 541919XXXXXX1083 RELIANCE POS DEBIT   0000000000010996  26/08/18             717.00                               2,880.69   
+26/08/18  POS 541919XXXXXX1083 D MART. POS DEBIT    0000000000028588  26/08/18             599.00                               2,281.69   
+30/08/18  POS 541919XXXXXX1083 DCSIICICIPRU POS DE  0000N16626598616  30/08/18             614.00                               1,667.69   
+          BIT                                                                                                                               
+30/08/18  UPI-00000020180574615-9776846688@YBL-824  0000824212078140  30/08/18                              3,000.00            4,667.69   
+          224085581-PAYMENT FROM PHONEPE                                                                                                    
+30/08/18  UPI-00000020180574615-9776846688@YBL-824  0000824212079968  30/08/18           3,000.00                               1,667.69   
+          212027572-PAYMENT FROM PHONEPE                                                                                                    
+31/08/18  00772320000015SAL CREDIT FOR AUG18        0000808308712007  31/08/18                             83,701.00           85,368.69   
+31/08/18  ATW-541919XXXXXX1083-P4ENBN11-BANGALORE   0000000000009889  31/08/18           1,500.00                              83,868.69   
+31/08/18  POS 541919XXXXXX1083 HINDUSTAN PETROL PO  0000000000104091  31/08/18             350.00                              83,518.69   
+          S DEBIT                                                                                                                           
+31/08/18  IB BILLPAY DR-HDFCVE-489377XXXXXX7030     000000000000000   31/08/18           4,773.00                              78,745.69   
+31/08/18  UPI-4511659757-9776846688@YBL-8243392961  0000824313355624  31/08/18          11,000.00                              67,745.69   
+          13-PAYMENT FROM PHONEPE                                                                                                           
+31/08/18  UPI-00000020180574615-9776846688@YBL-824  0000824313356442  31/08/18           4,000.00                              63,745.69   
+          339474259-PAYMENT FROM PHONEPE                                                                                                    
+31/08/18  NHDF6631186904/BILLDKBANAYANTREESER       0000182435318946  31/08/18           1,000.00                              62,745.69   
+31/08/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N243180620687061  31/08/18           1,500.00                              61,245.69   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   13                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          , MUM-N243180620687061-FROM API                                                                                                   
+31/08/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000146020  31/08/18           2,283.00                              58,962.69   
+          BIT                                                                                                                               
+31/08/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000146021  31/08/18           2,283.00                              56,679.69   
+          BIT                                                                                                                               
+01/09/18  SI HDFC1100465745 HDFC MUTUAL F-01/09/18  000000000000000   01/09/18           1,500.00                              55,179.69   
+01/09/18  ICICICARD-HDFC1100740794-BILLPAY ONLINEP  0000001100740794  01/09/18           1,000.00                              54,179.69   
+          AYMENT-04992990009386                                                                                                             
+01/09/18  UPI-00600350025667-HDFCSLRENCL@HDFCBANK-  0000824410752596  01/09/18          12,270.00                              41,909.69   
+          COLLECT-824410936477-5376715                                                                                                      
+01/09/18  UPI-002261100000025-PVRCINEMAS@YBL-82442  0000824411792324  01/09/18             234.56                              41,675.13   
+          2178992-PAYMENT FROM PHONEPE                                                                                                      
+01/09/18  UPI-002261100000025-PVRCINEMAS@YBL-82444  0000824411799151  01/09/18             429.12                              41,246.01   
+          4397285-PAYMENT FROM PHONEPE                                                                                                      
+01/09/18  POS 541919XXXXXX1083 SMARTBUY COM POS DE  0000000000146309  01/09/18           2,760.00                              38,486.01   
+          BIT                                                                                                                               
+02/09/18  POS 541919XXXXXX1083 MALABAR GOLD POS DE  0000000000019054  02/09/18           1,500.00                              36,986.01   
+          BIT                                                                                                                               
+02/09/18  UPI-1000129101465-OLA.MONEY@AXISBANK-824  0000824523121240  03/09/18             194.00                              36,792.01   
+          523917741-OLACABS                                                                                                                 
+03/09/18  POS 541919XXXXXX1083 AIR ASIA INDIA L PO  0000000000132238  03/09/18              99.00                              36,693.01   
+          S DEBIT                                                                                                                           
+03/09/18  POS 541919XXXXXX1083 AIR ASIA INDIA L PO  0000000000158522  03/09/18              99.00                              36,594.01   
+          S DEBIT                                                                                                                           
+03/09/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000009979  03/09/18           1,500.00                              35,094.01   
+          URB                                                                                                                               
+03/09/18  POS 541919XXXXXX1083 BRAND FACTORY POS D  0000000000254692  03/09/18             529.70                              34,564.31   
+          EBIT                                                                                                                              
+03/09/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000292361  03/09/18              90.00                              34,474.31   
+          S DEBIT                                                                                                                           
+04/09/18  NWD-541919XXXXXX1083-01114262-BANGALORE   0000824709006484  04/09/18           2,500.00                              31,974.31   
+04/09/18  NEFT CR-UTIB0002946-SWAGATIKA  SWAIN-AJI  AXMB182472627563  04/09/18                              2,500.00           34,474.31   
+          T PRADHAN-AXMB182472627563                                                                                                        
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   14                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+04/09/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000824760024975  04/09/18             248.55                              34,225.76   
+          EBIT                                                                                                                              
+04/09/18  POS 541919XXXXXX1083 PAYTM POS DEBIT      0000000000563655  04/09/18             317.98                              33,907.78   
+04/09/18  UPI-30303515061-30303515061@SBIN0000121.  0000824716410256  04/09/18           2,000.00                              31,907.78   
+          IFSC.NPCI-824716319291-PAYMENT FROM PHON                                                                                          
+          EPE                                                                                                                               
+04/09/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000824710129453  04/09/18             200.00                              31,707.78   
+          EBIT                                                                                                                              
+05/09/18  POS REF 541919******1083-09/05 PAYTM1293  000000000000000   05/09/18                                248.55           31,956.33   
+05/09/18  CRV POS 541919XXXXXX1083 HPCL 0.75% CASH  000000000000000   05/09/18                                  2.62           31,958.95   
+06/09/18  CHQ PAID-MICR CTS-CH-AKP BUSI LINE        0000000000000078  06/09/18          14,000.00                              17,958.95   
+06/09/18  ACH D- BD-CRYNACH-TXKX85914               0000005147645205  06/09/18             400.00                              17,558.95   
+07/09/18  CCAFI2BYJ499/CCAKLICKPAYIN                0000182501252759  07/09/18              65.00                              17,493.95   
+07/09/18  NEFT CR-RATN0000999-CORAZA TECHNOLOGIES   0000000049364824  07/09/18                                 10.00           17,503.95   
+          PRIVATE LIMITED-AJIT PRADHAN-00004936482                                                                                          
+          4                                                                                                                                 
+07/09/18  NEFT CR-RATN0000999-CORAZA TECHNOLOGIES   0000000049364842  07/09/18                                 23.00           17,526.95   
+          PRIVATE LIMITED-AJIT PRADHAN-00004936484                                                                                          
+          2                                                                                                                                 
+08/09/18  POS 541919XXXXXX1083 PAYTM MALL POS DEBI  0000825160131648  08/09/18             715.55                              16,811.40   
+          T                                                                                                                                 
+09/09/18  NHDF6665293480/ICICI BANK CREDIT CA       0000182523167012  09/09/18              20.00                              16,791.40   
+09/09/18  UPI-002261100000025-Q55937664@YBL-825238  0000825219124007  09/09/18             400.00                              16,391.40   
+          189508-PAYMENT FROM PHONEPE                                                                                                       
+10/09/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000000590  10/09/18           1,900.00                              14,491.40   
+          URB                                                                                                                               
+12/09/18  ACH D- TP AADHAR HOUSING FI-1509597060    0000005206993232  12/09/18           6,347.00                               8,144.40   
+13/09/18  UPI-0103SL00IPAY-PAYTM@ICICI-82561199320  0000825611531059  13/09/18             473.00                               7,671.40   
+          9-OID6018953415@PAYTMMARKETPLACE                                                                                                  
+14/09/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000525788  14/09/18              75.00                               7,596.40   
+          S DEBIT                                                                                                                           
+16/09/18  UPI-002261100000025-BILLDESKPP@YBL-82592  0000825910740222  16/09/18             409.00                               7,187.40   
+          0609495-PAYMENT FROM PHONEPE                                                                                                      
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   15                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+16/09/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000825910043427  16/09/18             200.00                               6,987.40   
+          EBIT                                                                                                                              
+18/09/18  UPI-50100210595685-KRISHNAKANTSIT@OKHDFC  0000826114235879  18/09/18             500.00                               6,487.40   
+          BANK-PAY-826114726444-UPI                                                                                                         
+18/09/18  UPI-002261100000025-Q55937664@YBL-826119  0000826119667714  18/09/18             380.00                               6,107.40   
+          356551-PAYMENT FROM PHONEPE                                                                                                       
+21/09/18  POS 541919XXXXXX1083 DOMINOS PIZZA . POS  0000000000038667  21/09/18             135.44                               5,971.96   
+          DEBIT                                                                                                                             
+22/09/18  NWD-541919XXXXXX1083-TKBS0158-BANGLORE    0000826509008353  22/09/18           1,500.00                               4,471.96   
+23/09/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000826660026880  23/09/18             200.00                               4,271.96   
+          EBIT                                                                                                                              
+23/09/18  POS 541919XXXXXX1083 NANDI ECONOMIC C PO  0000000000005566  23/09/18              25.00                               4,246.96   
+          S DEBIT                                                                                                                           
+23/09/18  POS 541919XXXXXX1083 SRI SRI COL OF A PO  0000000000025661  23/09/18             970.00                               3,276.96   
+          S DEBIT                                                                                                                           
+24/09/18  UPI-002261100000025-Q55937664@YBL-826757  0000826719820867  24/09/18             370.00                               2,906.96   
+          180806-PAYMENT FROM PHONEPE                                                                                                       
+25/09/18  UPI-RET-825611993209-13-09-2018           000000000000000   25/09/18                                381.00            3,287.96   
+25/09/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000756225  25/09/18             190.00                               3,097.96   
+          S DEBIT                                                                                                                           
+26/09/18  UPI-916020045613757-GOPALDAIMARY497@OKAX  0000826922438938  26/09/18              18.00                               3,079.96   
+          IS-PAY-826922341068-UPI                                                                                                           
+27/09/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000827060021688  27/09/18              28.99                               3,050.97   
+          EBIT                                                                                                                              
+27/09/18  POS 541919XXXXXX1083 RAZORPAY SOFTW-R PO  0000000000037027  27/09/18             100.00                               2,950.97   
+          S DEBIT                                                                                                                           
+28/09/18  POS 541919XXXXXX1083 DCSIICICIPRU POS DE  0000N16727403072  28/09/18             614.00                               2,336.97   
+          BIT                                                                                                                               
+28/09/18  00772320000015SAL CREDIT FOR SEP18        0000809273289005  28/09/18                             83,702.00           86,038.97   
+28/09/18  NEFT DR-SBIN0009673-MANJU PARIDA-NETBANK  N271180641448277  28/09/18           1,500.00                              84,538.97   
+          , MUM-N271180641448277-FROM API                                                                                                   
+28/09/18  LIC INDIA-HDFC1102415554-BILLPAY ONLINEP  0000001102415554  28/09/18           8,978.57                              75,560.40   
+          AYMENT-04992990009404                                                                                                             
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   16                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+28/09/18  UPI-4511659757-9776846688@YBL-8271226151  0000827111100077  28/09/18          11,000.00                              64,560.40   
+          59-PAYMENT FROM PHONEPE                                                                                                           
+28/09/18  UPI-00000020180574615-9776846688@YBL-827  0000827111104697  28/09/18           1,000.00                              63,560.40   
+          133718330-PAYMENT FROM PHONEPE                                                                                                    
+28/09/18  POS 541919XXXXXX1083 MONEYGOALS POS DEBI  0000NF6728287621  28/09/18           1,000.00                              62,560.40   
+          T                                                                                                                                 
+28/09/18  UPI-1000129101465-KSRTC@AXISBANK-8271167  0000827116689616  28/09/18           1,848.00                              60,712.40   
+          37389-OB33328423                                                                                                                  
+28/09/18  UPI-4511659757-9776846688@YBL-8271322499  0000827116702953  28/09/18           1,830.00                              58,882.40   
+          63-PAYMENT FROM PHONEPE                                                                                                           
+28/09/18  UPI-1000129101465-KSRTC@AXISBANK-8271168  0000827116749559  28/09/18           1,828.00                              57,054.40   
+          24889-OB33328982                                                                                                                  
+29/09/18  UPI-4899227162091-SBIEPAY.HPCL-1000087@S  0000082728512813  29/09/18           2,232.50                              54,821.90   
+          BI-827208937702-COLLECT REQUEST FOR 2232                                                                                          
+          .5                                                                                                                                
+29/09/18  POS 541919XXXXXX1083 CITY TYRES AND S PO  0000000000159367  29/09/18           1,800.00                              53,021.90   
+          S DEBIT                                                                                                                           
+29/09/18  IB BILLPAY DR-HDFCVE-489377XXXXXX7030     IB29114348945864  29/09/18           5,000.00                              48,021.90   
+29/09/18  KISXW74EAR72NPGS/PAYUFLIPKARTPAYMENTS     0000182729218221  29/09/18             822.00                              47,199.90   
+30/09/18  UPI-4511659757-9776846688@YBL-8273380659  0000827319737729  30/09/18                              1,857.00           49,056.90   
+          94-PAYMENT FROM PHONEPE                                                                                                           
+30/09/18  NWD-541919XXXXXX1083-O1654700-CHICKMAGAL  0000827320117021  30/09/18           3,000.00                              46,056.90   
+          UR                                                                                                                                
+30/09/18  CREDIT INTEREST CAPITALISED               000000000000000   30/09/18                                112.00           46,168.90   
+01/10/18  SI HDFC1102311595 HDFC MUTUAL F-01/10/18  000000000000000   01/10/18           1,500.00                              44,668.90   
+01/10/18  NWD-541919XXXXXX1083-O1654700-CHICKMAGAL  0000827422117160  01/10/18           1,500.00                              43,168.90   
+          UR                                                                                                                                
+02/10/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000827512284559  02/10/18           1,000.00                              42,168.90   
+          PAY-827512311010-UPI                                                                                                              
+02/10/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000827560205981  02/10/18             200.00                              41,968.90   
+          EBIT                                                                                                                              
+03/10/18  02771610132345-TPT-CHIKMANGLUR            0000000351793824  03/10/18                              1,845.00           43,813.90   
+03/10/18  UPI-10001291012095-IRCTC@AXISBANK-827619  0000827619523034  03/10/18             315.00                              43,498.90   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   17                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          276455-100001466915173                                                                                                            
+05/10/18  CHQ PAID-MICR CTS-CH-A K P BUSINESS LINE  0000000000000079  05/10/18          14,000.00                              29,498.90   
+05/10/18  POS 541919XXXXXX1083 DIVYA FUEL POINT PO  0000000000292891  05/10/18             400.00                              29,098.90   
+          S DEBIT                                                                                                                           
+06/10/18  NWD-541919XXXXXX1083-0888E003-BANGALORE   0000827909027681  06/10/18           1,500.00                              27,598.90   
+          M                                                                                                                                 
+08/10/18  ACH D- BD-CRYNACH-TXKX88794               0000005695504028  08/10/18             400.00                              27,198.90   
+08/10/18  POS 541919XXXXXX1083 RAZORPAY SOFTW-R PO  0000000000038750  08/10/18              64.00                              27,134.90   
+          S DEBIT                                                                                                                           
+09/10/18  NEFT DR-SBIN0000121-SADASIVA DAS-NETBANK  N282180651696512  09/10/18          10,000.00                              17,134.90   
+          , MUM-N282180651696512-FROM API                                                                                                   
+09/10/18  UPI-002261100000025-TPSLCARD@YBL-8282689  0000828217665136  09/10/18           1,020.00                              16,114.90   
+          55715-PAYMENT FROM PHONEPE                                                                                                        
+09/10/18  CRV POS 541919******1083 HPCL 0.75% CASH  000000000000000   09/10/18                                  3.00           16,117.90   
+12/10/18  ACH D- TP AADHAR HOUSING FI-1525498219    0000005774192085  12/10/18           6,347.00                               9,770.90   
+12/10/18  UPI-00000030303515061-9583482338@YBL-828  0000828511113145  12/10/18           2,500.00                               7,270.90   
+          533333677-PAYMENT FROM PHONEPE                                                                                                    
+12/10/18  POS 541919XXXXXX1083 WWW PAYTM COM POS D  0000828560125090  12/10/18              33.00                               7,237.90   
+          EBIT                                                                                                                              
+12/10/18  ATW-541919XXXXXX1083-P3ENBG03-BANGALORE-  0000000000003302  12/10/18           1,500.00                               5,737.90   
+          URB                                                                                                                               
+13/10/18  UPI-1000129101465-OLA.MONEY1@AXISBANK-82  0000082869496653  13/10/18             133.00                               5,604.90   
+          8627231042-PLEASE FINISH THE PAYMENT TO                                                                                           
+          MAKE THIS ORDER                                                                                                                   
+14/10/18  UPI-038201539446-SWAGATIKA.RIKI@OKICICI-  0000828712232015  14/10/18             500.00                               5,104.90   
+          PAY-828712322337-UPI                                                                                                              
+14/10/18  UPI-002261100000025-Q55937664@YBL-828722  0000828722062136  15/10/18             353.00                               4,751.90   
+          644734-PAYMENT FROM PHONEPE                                                                                                       
+16/10/18  POS 541919XXXXXX1083 PAYZAPP WALLET L PO  0000000000270299  16/10/18              80.00                               4,671.90   
+          S DEBIT                                                                                                                           
+17/10/18  POS 541919XXXXXX1083 BALAJI WINES POS DE  0000000000194480  17/10/18             240.00                               4,431.90   
+          BIT                                                                                                                               
+18/10/18  POS 541919XXXXXX1083 RAZORPAY SOFTW-R PO  0000000000040333  18/10/18             100.00                               4,331.90   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   18                                        Statement of accounts
+
+
+                                                                         Account Branch : PATIA CHOWK
+                                                                         Address        : HDFC BANK LTD
+                                                                                          PLOT NO 516/1676, SAMPARK VIHAR,
+MR.     AJIT KUMAR PRADHAN                                                                PATIA SQUARE,
+TATA CONSULTANCY SERVICES LTD                                            City           : BHUBANESWAR 751024
+KALINGA PARK,IT/ITES,SEZ PLOT NO35                                       State          : ODISHA
+CHANDAKA INDUSTRIAL ESTATE PATIA                                         Phone no.      : 9937903333
+BHUBANESWAR 751024                                                       Email          : pradhan.ajit2009@gmail.com
+ODISHA INDIA                                                             OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 36252229
+JOINT HOLDERS :                                                          Account No     : 07951610034206   OTHER
+                                                                         A/C Open Date  : 03/11/2010
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/04/2018  To: 20/10/2018                         RTGS/NEFT IFSC : HDFC0002542    MICR : 751240009   
+                                                                         Branch Code    : 2542     Product Code : 161     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          S DEBIT                                                                                                                           
+18/10/18  POS 541919XXXXXX1083 DECATHLON SPORTS PO  0000000000010791  18/10/18             199.00                               4,132.90   
+          S DEBIT                                                                                                                           
+18/10/18  POS 541919XXXXXX1083 SHOW OFF CITY CE PO  0000000000008928  18/10/18           1,315.00                               2,817.90   
+          S DEBIT                                                                                                                           
+18/10/18  UPI-4511659757-9776846688@YBL-8291210505  0000829121857351  18/10/18                              5,000.00            7,817.90   
+          05-PAYMENT FROM PHONEPE                                                                                                           
+18/10/18  POS 541919XXXXXX1083 RANI TEXTILES POS D  0000000000002231  18/10/18           1,620.00                               6,197.90   
+          EBIT                                                                                                                              
+19/10/18  POS 541919XXXXXX1083 MC DONALDS. POS DEB  0000000000005364  19/10/18             100.98                               6,096.92   
+          IT                                                                                                                                
+19/10/18  POS 541919XXXXXX1083 FUTURE RETAIL LT PO  0000000000009326  19/10/18             797.00                               5,299.92   
+          S DEBIT                                                                                                                           
+20/10/18  UPI-10001291012095-IRCTC@AXISBANK-829312  0000829312623153  20/10/18           1,700.00                               3,599.92   
+          710799-100001490342255                                                                                                            
+
+
+********  ****************************************  ****************  ********  ******************  ******************  ******************
+******************************************************************************************************************************************
+
+         STATEMENT SUMMARY  :- 
+           Opening Balance                                                      Debits              Credits          Closing Bal 
+                 62,767.99                                                  645,189.47           586,021.40             3,599.92 
+
+                                                                              Dr Count             Cr Count 
+                                                                                   286                   49 
+
+
+             Generated On:   21-Oct-2018 16:20                   Generated By:  36252229             Requesting Branch Code: NET 
+
+
+State account branch GSTN:21AAACH2702H1ZC
+ HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax
+           Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013	 
+                                            ---  End Of Statement ---  
+

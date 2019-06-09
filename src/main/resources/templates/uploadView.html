@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><h1><center>Interface Test Bed</center></h1>
+<meta charset="ISO-8859-1"></meta>
+<title>Interface Test Execution</title>
+<style>
+	div {width:1500px;margin:auto;}	
+</style>
+</head>
+<body style="background-color:powderblue;">
+	
+	<div>
+		<h4>List Of files to download :</h4>
+			<div th:each="file: ${downloadableFiles}" >
+				<a th:href="@{'/file/' +${file.getName()}}"><span th:text="${file.getName()}"/></a> 
+				<span th:text="${file.length()/1024}"/>KB				
+			</div>
+	</div>
+	</br></br></br></br></br></br>
+	<form action="/upload" method="post" enctype="multipart/form-data">
+		<h4><label>Upload files:</label></h4>
+		<input type="file" name="files" multiple >
+		<input type="submit" value="Upload Files"></input>
+	</form>
+	<form action="/Run" method="post" >
+		<h4><label>Start Execution:</label></h4>
+		<div class="style7">			
+			<input type="image" id="imgbtn" th:src="${projectPath} +'\Images\run.jpg'" height="42" width="42" alt="Run Button">	
+		</div>	
+	</form>
+	
+	
+</body>
+</html>
